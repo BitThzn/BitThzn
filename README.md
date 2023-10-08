@@ -1,8 +1,14 @@
-<div>
+div>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+</div>
+  
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+</br>
+</br>
 
 <h2> / Sobre Mim /</h2>
   
