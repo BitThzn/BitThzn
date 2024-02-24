@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
   
-<img align="right" width="400" alt="Shimarin" src="[https://i.imgur.com/aNBi8Jf.png](https://64.media.tumblr.com/92a68273506440b02b15c8fcb17ed2a2/3c6dc4af65927149-f1/s540x810/7c4c2a8792c142aebcece6fa69ee31ade973e485.gif)"/>
+<img align="right" width="400" alt="Shimarin" src="https://64.media.tumblr.com/92a68273506440b02b15c8fcb17ed2a2/3c6dc4af65927149-f1/s540x810/7c4c2a8792c142aebcece6fa69ee31ade973e485.gif"/>
 
 </br>
 </br>
