@@ -1,26 +1,32 @@
+<h2> / ✌🏼 Salve, Salve! 🔥 /</h2>
+  
+- ⭐ Meu nome é Adryan, mas se quiser pode me chamar de Thorin.
+- 💀 sou Gamer, Nerdola, Editor de video...e um dia vou ser um programador mt foda
+- 👾 Estudo por conta, deixando a curiosidade e meu coração me levarem para qualquer lugar.
 
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-  
-<img align="right" width="400" alt="Shimarin" src="https://64.media.tumblr.com/92a68273506440b02b15c8fcb17ed2a2/3c6dc4af65927149-f1/s540x810/7c4c2a8792c142aebcece6fa69ee31ade973e485.gif"/>
+    <img src="https://github.com/BitThzn/BitThzn/assets/136759153/09be6e17-401c-4fcc-8c22-0b5d06a3a1a0" height="550px" width="1000px" />
+ </div>
 
-</br>
-</br>
-
-<h2> / Sobre Mim /</h2>
-  
-- ⭐ Atualmente trabalhando em **desenvolvimento web**
-- 💀 Trabalhando principalmente em **repositórios privados**
-- 👾 Um **estudante** resolvendo as coisas
-
- <h2> / Objetivo Profissional / </h2>
+ <h2> / 🎯 Objetivo Profissional 💻 / </h2>
 
  - 💭 Busco oportunidades que me permitam aplicar minhas habilidades e paixão pelo universo gamer, enquanto contribuo para o crescimento de uma comunidade virtual. Além disso, tenho aspirações de integrar uma empresa de renome na área de Tecnologia da Informação, onde posso atuar tanto na montagem de computadores como no desenvolvimento de software em um ambiente de trabalho remoto.
+
+   <div align="center">
+    <img src="https://github.com/BitThzn/BitThzn/assets/136759153/772161fd-d438-4395-a6f4-a466cbf72f4e" height="600px" width="900px" />
+ </div>
+
+ - <h2> / 🧠 Meu Principal projeto 🧠 / </h2>
+
+ - 💬 Sou dono de um canal no youtube, aonde mostro como eu e meus amigos jogando, Meu principal objetivo e fazer com que meu servidor no discord que se chama Aether, um dia fique super conhecido, pois a ideia dele é fazer dele um lugar aonde todos os "gamers" de todos os lugares do mundo possam se encontrar para jogar algo. O Aether foi desenvolvido para aqueles que um dia ja se sentiram sozinho. 
+ - Atualmente estou no desenvolvimente de um site com o mesmo nome do servidor, produzindo para que isso chegue em mais pessoas!
+
+<div align="center">
+    <img src="https://github.com/BitThzn/BitThzn/assets/136759153/1964cd84-43d2-4773-9fc3-44d9f28d45e2" height="400px" width="400px" />
+</div>
+
   
-<h2 align="left"> / Habilidades Atuais / </h2>
+<h2 align="left"> / 📝 Habilidades Atuais ✍🏼 / </h2>
   
 - <h4 align="left"> Linguagens </h4>
   <img align="left"src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -30,9 +36,9 @@
 </br>
 </br>
   
-  <h2 align="left"> / Atualmente Apreendendo / </h2>
+  <h2 align="left"> / 📝 Atualmente Apreendendo ✍🏼/ </h2>
   
-  <p align="left"> - ✍🏼 Atualmente apreendendo desenvolimento web </p>
+  <p align="left"> - ✍🏼 Atualmente estudando Frontend & Backend </p>
 
   
 - <h4 align="left"> designing tools </h4>
