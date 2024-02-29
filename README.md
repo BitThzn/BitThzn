@@ -1,12 +1,12 @@
+<div align="center">
+    <img src="https://github.com/BitThzn/BitThzn/assets/136759153/8e5eb8e6-5e92-44b0-89d9-7868391d8aca" height="550px" width="1000px" />
+ </div>
+ 
 <h2> / ✌🏼 Salve, Salve! 🔥 /</h2>
   
 - ⭐ Meu nome é Adryan, mas se quiser pode me chamar de Thorin.
 - 💀 sou Gamer, Nerdola, Editor de video...e um dia vou ser um programador mt foda
 - 👾 Estudo por conta, deixando a curiosidade e meu coração me levarem para qualquer lugar.
-
-<div align="center">
-    <img src="https://github.com/BitThzn/BitThzn/assets/136759153/09be6e17-401c-4fcc-8c22-0b5d06a3a1a0" height="550px" width="1000px" />
- </div>
 
  <h2> / 🎯 Objetivo Profissional 💻 / </h2>
 
