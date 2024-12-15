@@ -1,5 +1,4 @@
 
-![BitMattz GitHub stats](https://github-readme-stats.vercel.app/api?username=bitmattz&show_icons=true&theme=tokyonight)
 
 ## Social
 <a href="https://discord.gg/4pMudaBd66"><img alt="Discord" src="https://img.shields.io/badge/Discord Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
