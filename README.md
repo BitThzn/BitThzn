@@ -5,8 +5,8 @@
 <h2> / ✌🏼 Salve, Salve! 🔥 /</h2>
   
 - ⭐ Meu nome é Adryan, mas se quiser pode me chamar de Thorin.
-- 💀 sou Gamer, Nerdola, Editor de video...e um dia vou ser um programador mt foda
-- 👾 Estudo por conta, deixando a curiosidade e meu coração me levarem para qualquer lugar.
+- 💀 Sou Editor de videos, atualmente estudando para me tornar um bom Programador.
+- 👾 Estudo por conta, deixando a curiosidade e meu coração me levarem a grandes lugares.
 
  <h2> / 🎯 Objetivo Profissional 💻 / </h2>
 
