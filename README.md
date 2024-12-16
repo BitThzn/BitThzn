@@ -1,4 +1,4 @@
-## Salve, Salve! Eu me chamo Adryan!
+## Sup! My name is Adryan!
 
 ![BitThzn GitHub stats](https://github-readme-stats.vercel.app/api?username=bitthzn&show_icons=true&theme=dark)
 
