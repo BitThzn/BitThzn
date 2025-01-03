@@ -6,6 +6,7 @@
 
 ## Connect with me:
 <p align="left">
+<a href="https://www.linkedin.com/in/adryan-oliveira-484648344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adryan oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/adrynhos.xp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrynhos.xp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@thorinzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thorinzen" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4pMudaBd66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4pMudaBd66" height="30" width="40" /></a>
