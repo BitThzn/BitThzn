@@ -6,9 +6,9 @@
 
 ## Connect with me:
 <p>
-<a href="https://www.linkedin.com/in/adryan-oliveira-tolomeotti/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" hspace="10"/></a>
-<a href="https://instagram.com/adrynhos.xp"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" hspace="10"/></a>
-<a href="https://www.youtube.com/@thorinzen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" hspace="10"/></a>
+<a href="https://www.linkedin.com/in/adryan-oliveira-67511b3a5/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" hspace="10"/></a>
+<a href="https://www.instagram.com/ghostyan.xps/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" hspace="10"/></a>
+<a href="https://www.youtube.com/@ghostyan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" hspace="10"/></a>
 <a href="https://discord.gg/4pMudaBd66"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/></a>
 </p>
 
