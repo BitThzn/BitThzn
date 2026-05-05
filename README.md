@@ -1,7 +1,6 @@
 ## Sup! My name is Adryan!
 
-![BitThzn GitHub stats](https://github-readme-stats.vercel.app/api?username=bitthzn&show_icons=true&theme=dark)
-
+[![BitThzn GitHub stats](https://github-readme-stats.vercel.app/api?username=BitThzn)](https://github.com/BitThzn/github-readme-stats)
 <br>
 
 ## Connect with me:
