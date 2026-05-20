@@ -37,19 +37,19 @@ Current Mission: Become an elite developer<br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/adryan-oliveira-67511b3a5/">
+<a href="https://www.linkedin.com/in/adryan-oliveira-67511b3a5/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55" hspace="10"/>
 </a>
 
-<a href="https://www.instagram.com/ghostyan.xps/">
+<a href="https://www.instagram.com/ghostyan.xps/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="55" hspace="10"/>
 </a>
 
-<a href="https://www.youtube.com/@ghostyan">
+<a href="https://www.youtube.com/@ghostyan" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="55" hspace="10"/>
 </a>
 
-<a href="https://discord.gg/4pMudaBd66">
+<a href="https://discord.gg/4pMudaBd66" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" width="55" hspace="10"/>
 </a>
 
