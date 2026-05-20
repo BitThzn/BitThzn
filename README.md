@@ -111,8 +111,8 @@ Current Mission: Become an elite developer<br>
 </p>
 
 Portuguese — Native <br>
-Spanish — Learning <br>
 Russian — Learning <br>
+Spanish — Learning <br>
 English — Learning <br>
 
 
