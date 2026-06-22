@@ -37,7 +37,7 @@ Current Mission: Become an elite developer<br>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/adryan-oliveira-67511b3a5/" target="_blank">
+<a href="https://www.linkedin.com/in/adryan-oliveira-tolomeotti-67511b3a5/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55" hspace="10"/>
 </a>
 
